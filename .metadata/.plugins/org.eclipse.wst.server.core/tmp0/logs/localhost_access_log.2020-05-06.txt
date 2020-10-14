@@ -1,0 +1,17 @@
+127.0.0.1 - - [06/May/2020:13:58:53 +0200] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [06/May/2020:13:58:55 +0200] "GET /FitnessTracker/ HTTP/1.1" 200 2215
+0:0:0:0:0:0:0:1 - - [06/May/2020:13:58:55 +0200] "GET /FitnessTracker/assets/css/bootstrap.css HTTP/1.1" 200 121663
+0:0:0:0:0:0:0:1 - - [06/May/2020:13:58:55 +0200] "GET /FitnessTracker/assets/css/bootstrap-responsive.css HTTP/1.1" 200 21709
+0:0:0:0:0:0:0:1 - - [06/May/2020:13:58:55 +0200] "GET /FitnessTracker/jquery-1.8.3.js HTTP/1.1" 200 266057
+0:0:0:0:0:0:0:1 - - [06/May/2020:13:58:55 +0200] "GET /FitnessTracker/assets/js/bootstrap.js HTTP/1.1" 200 56478
+0:0:0:0:0:0:0:1 - - [06/May/2020:13:59:42 +0200] "GET /FitnessTracker/addGoal.html HTTP/1.1" 404 682
+127.0.0.1 - - [06/May/2020:14:01:36 +0200] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:01:36 +0200] "GET /FitnessTracker/ HTTP/1.1" 200 2215
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:01:43 +0200] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 200 3317
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:01:44 +0200] "GET /FitnessTracker/activities.json?ajax=true HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:04:06 +0200] "GET /FitnessTracker/addGoal.html HTTP/1.1" 200 2404
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:04:09 +0200] "POST /FitnessTracker/addGoal.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:04:09 +0200] "GET /FitnessTracker/index.jsp HTTP/1.1" 200 2215
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:04:12 +0200] "GET /FitnessTracker/addGoal.html HTTP/1.1" 200 2404
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:04:13 +0200] "POST /FitnessTracker/addGoal.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/May/2020:14:04:13 +0200] "GET /FitnessTracker/index.jsp HTTP/1.1" 200 2215

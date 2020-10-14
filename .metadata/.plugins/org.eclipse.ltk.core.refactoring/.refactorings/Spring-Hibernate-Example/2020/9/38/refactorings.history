@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Spring-Hibernate-Example&apos; to &apos;Spring-Hibernate-Example&apos;&#x0D;&#x0A;- Original project: &apos;Spring-Hibernate-Example&apos;&#x0D;&#x0A;- Destination element: &apos;Spring-Hibernate-Example&apos;&#x0D;&#x0A;- Original element: &apos;Spring-Hibernate-Example&apos;" description="Copy folder" destination="=Spring-Hibernate-Example" element1="Spring-Hibernate-Example" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1600429296658" units="0" version="1.0"/>
+</session>

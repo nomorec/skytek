@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\nomorec\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1671692264.index
+734089071.index
+4282429717.index

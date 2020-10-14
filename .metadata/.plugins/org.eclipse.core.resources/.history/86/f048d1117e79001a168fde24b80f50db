@@ -1,0 +1,16 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		//create Square Object
+		
+		Square musquare = new Square();
+		
+		//calling Method from Square Object
+		
+	 System.out.printf(musquare.SquareM());
+
+	}
+
+}
